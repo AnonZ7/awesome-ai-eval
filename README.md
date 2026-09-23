@@ -58,6 +58,7 @@ Evaluation is how you know if your AI actually works (and not hallucinating). Th
 - ![](https://img.shields.io/github/stars/onestardao/WFGY?style=social&label=github.com) [**WFGY 3.0 (Singularity Demo)**](https://github.com/onestardao/WFGY) - TXT-based long-horizon robustness stress test + failure-mode map for debugging RAG / agent pipelines under sustained reasoning.
 - ![](https://img.shields.io/badge/wandb.ai-active-blue?style=social) [**W&B Weave Evaluations**](https://wandb.ai/site/evaluations/) - Managed evaluation orchestrator with dataset versioning and dashboards.
 - ![](https://img.shields.io/github/stars/zenml-io/zenml?style=social&label=github.com) [**ZenML**](https://github.com/zenml-io/zenml) - Pipeline framework that bakes evaluation steps and guardrail metrics into LLM workflows.
+- ![](https://img.shields.io/github/stars/AnonZ7/fact-gate?style=social&label=github.com) [**fact-gate**](https://github.com/AnonZ7/fact-gate) - Deterministic verification of AI-written text against a diff, measured facts or prose; ships its own eval set with per-domain precision and recall. Zero dependencies.
 
 #### Application and Agent Harnesses
 
